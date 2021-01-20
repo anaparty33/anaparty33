@@ -9,6 +9,9 @@
 ✉️  You can shoot me an email at anapartybharath33@gmail.com ! I'll try to respond as soon as I can.  
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
+### Tech Stack
+![JavaScript](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg)
+
 <!--
 **anaparty33/anaparty33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
