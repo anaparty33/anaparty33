@@ -16,7 +16,7 @@
   ![](https://camo.githubusercontent.com/2fc774b6f44efd9ac27316c539e0e94f8e524f872dc5b1c3ef60266a598331bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974) ![](https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562)   
   
   ### 🤝🏻 Connect with me
- <a href="https://www.linkedin.com/in/bharadwaja-anaparty-689300100/"><img height="14px" src="https://cdn.svgporn.com/logos/javascript.svg"></a>
+ <a href="https://www.linkedin.com/in/bharadwaja-anaparty-689300100/"><img height="14px" src="https://cdn.svgporn.com/logos/linkedin.svg"></a>
 <!--
 **anaparty33/anaparty33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
