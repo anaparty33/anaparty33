@@ -4,7 +4,6 @@
 ### About Me
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
-
 ✉️  You can shoot me an email at anapartybharath33@gmail.com ! I'll try to respond as soon as I can.
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
