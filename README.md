@@ -17,6 +17,8 @@
   
   ### 🤝🏻 Connect with me
  <a href="https://www.linkedin.com/in/bharadwaja-anaparty-689300100/"><img height="14px" src="https://cdn.svgporn.com/logos/linkedin.svg"></a>
+  <a href="https://www.facebook.com/anaparty.bharath/"><img height="14px" src="https://cdn.svgporn.com/logos/facebook.svg"></a>
+ 
 <!--
 **anaparty33/anaparty33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
