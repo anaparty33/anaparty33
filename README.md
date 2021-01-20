@@ -10,7 +10,8 @@
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
 ### Tech Stack
-![](https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e)
+![](https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e)  
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 
 <!--
 **anaparty33/anaparty33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
